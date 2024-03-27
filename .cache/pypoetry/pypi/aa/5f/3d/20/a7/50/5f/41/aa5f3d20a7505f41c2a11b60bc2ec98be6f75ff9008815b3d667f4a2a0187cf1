@@ -1,0 +1,1 @@
+9999999999{"name": "anthropic", "version": "0.2.9", "summary": "Library for accessing the anthropic API", "platform": null, "requires_dist": ["httpx", "requests", "tokenizers", "aiohttp", "importlib-metadata ; python_version < \"3.8\"", "black (>=22.3.0) ; extra == 'dev'", "pytest ; extra == 'dev'"], "requires_python": ">=3.8", "files": [], "_cache_version": "1.0.0"}

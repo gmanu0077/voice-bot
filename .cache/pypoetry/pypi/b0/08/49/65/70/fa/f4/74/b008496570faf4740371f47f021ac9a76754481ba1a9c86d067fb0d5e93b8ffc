@@ -1,0 +1,1 @@
+9999999999{"name": "elevenlabs", "version": "0.2.12", "summary": "The official elevenlabs python package.", "platform": null, "requires_dist": ["pydantic (>=1.10)", "ipython (>=7.0)", "requests (>=2.20)"], "requires_python": "", "files": [], "_cache_version": "1.0.0"}

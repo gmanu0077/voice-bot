@@ -1,0 +1,1 @@
+9999999999{"name": "opentelemetry-sdk", "version": "1.18.0", "summary": "OpenTelemetry Python SDK", "platform": null, "requires_dist": ["opentelemetry-api==1.18.0", "opentelemetry-semantic-conventions==0.39b0", "setuptools>=16.0", "typing-extensions>=3.7.4"], "requires_python": ">=3.7", "files": [], "_cache_version": "1.0.0"}
